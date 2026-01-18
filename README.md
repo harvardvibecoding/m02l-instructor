@@ -1,3 +1,1 @@
-# m02m
-
-Equity percentage added to impact score. Starting point for testing iteration.
+Instructor output for equity percentage in impact score, created by AI.
